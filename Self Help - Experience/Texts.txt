@@ -1,4 +1,0 @@
-# what it is!
-items.helpbook.name=Extreme Self Help
-items.helpbook.description=Discover new things through this magical item!
-item.entity.helpbook.sprite=helpbook
