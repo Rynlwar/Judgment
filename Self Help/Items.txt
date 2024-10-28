@@ -1,0 +1,8 @@
+# Research materials crafting recipe
+crafting.entity.researchmaterials.amount=1
+crafting.entity.researchmaterials.work=400
+crafting.entity.researchmaterials.research=scavenging
+crafting.entity.researchmaterials.costs.scraps=30
+crafting.entity.researchmaterials.costs.cloth=2
+crafting.entity.researchmaterials.costs.physics1=300
+items.entity.researchmaterials.sprite=item_researchmaterials
