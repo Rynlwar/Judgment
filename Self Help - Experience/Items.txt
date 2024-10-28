@@ -1,0 +1,24 @@
+# New resource. 
+items.entity.helpbook.name=Extreme Self Help
+items.entity.helpbook.value=1
+crafting.entity.helpbook.amount=1
+crafting.entity.helpbook.work=350
+items.entity.helpbook.sprite=item_selfhelp
+
+#what it does.
+items.entity.helpbook.baseaction.use.class=BaseActionAddExp
+items.entity.helpbook.baseaction.use.exp=500
+
+#crafting recipe.
+crafting.entity.helpbook.costs.scraps=50
+crafting.entity.helpbook.costs.cloth=2
+crafting.entity.helpbook.costs.fur=2
+crafting.entity.helpbook.costs.ectoplasm=1
+
+#crafting requirements.
+crafting.entity.helpbook.research=advancedlogistics
+crafting.entity.helpbook.station.workbench=1
+crafting.entity.helpbook.tags.advancedlogistics=true
+
+
+
